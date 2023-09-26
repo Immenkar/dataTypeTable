@@ -8,8 +8,6 @@ namespace dataTypeTable.include
 {
     internal class data
     {
-
-
         public static Dictionary<string, string> dict = new Dictionary<string, string>()
         {
             {"byte", "0 to 255" },
@@ -27,7 +25,5 @@ namespace dataTypeTable.include
             {"bool", "True or False" },
             {"string", "any text" },
         };
-
-
     }
 }
